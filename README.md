@@ -17,11 +17,13 @@ Getting Started
 
 To set up the project locally, follow these steps.
 Prerequisites
+    
     Operating System: Windows 10 or later
     .NET 9 or later
     Development Environment: Visual Studio
 
 Hardware Requirements:
+   
     Processor: A dual-core processor with a clock speed of at least 2.0 GHz.
     Memory: A minimum of 1 GB RAM.
     Graphics: Integrated graphics capable of handling 2D rendering should suffice.
