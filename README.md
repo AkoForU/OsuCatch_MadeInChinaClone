@@ -60,4 +60,4 @@ License
 
 This project is licensed under the MIT License.
 
-    Original game concept by osu!
+Original game concept by osu!
