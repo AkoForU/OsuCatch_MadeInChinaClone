@@ -2,7 +2,9 @@ OsuCatch_MadeInChinaClone
 
 This project is a remake of the Osu! Catch game mode, developed in C#. While functional, it currently faces optimization challenges. Contributions to improve performance are welcome.
 Table of Contents
+    
     About the Project
+    Features
     Getting Started
         Prerequisites
         Installation
@@ -11,9 +13,12 @@ Table of Contents
     Acknowledgements
 
 About the Project
-
 OsuCatch_MadeInChinaClone is a C# remake of the popular Osu! Catch game mode. The game is functional but may not be fully optimized. If you have expertise in optimization and are interested in contributing, please reach out.
 Getting Started
+
+Features
+
+    Integrated Audio Visualizer: Displays dynamic music waveforms in real-time, enhancing the visual and auditory experience.
 
 To set up the project locally, follow these steps.
 Prerequisites
